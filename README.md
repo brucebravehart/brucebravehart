@@ -21,4 +21,12 @@ I am a passionate **Programmer** from **Switzerland**. I love building tools tha
 
 <p align="left">
 <a href="https://www.linkedin.com/in/robert-fischer-30105b259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RF" height="30" width="40" /></a>
+<!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/robert-fischer-30105b259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Personal Website Badge -->
+  <a href="YOUR_WEBSITE_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
